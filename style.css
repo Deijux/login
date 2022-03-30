@@ -1,0 +1,28 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    margin: 0;
+}
+
+body {
+    background-color:rgb(48, 47, 47);
+}
+
+.cuerpo {
+    
+}
+
+.recuadro {
+    text-align: center;
+    background-color:rgb(144, 124, 255);
+    border: 5px inset rgb(128, 43, 197);
+    border-radius: 20px;
+    max-width: 700px;
+    min-height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    
+}
