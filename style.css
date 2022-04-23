@@ -5,13 +5,13 @@
 }
 
 body {
-    background-color:rgb(48, 47, 47);
+    background-color:rgb(180, 167, 255);
 }
 
 .recuadro {
     text-align: center;
     align-items: center;
-    background-color:rgb(144, 124, 255);
+    background-color:rgba(93, 66, 248, 0.253);
     border: 5px inset rgb(128, 43, 197);
     border-radius: 20px;
     max-width: 700px;
