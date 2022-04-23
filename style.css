@@ -31,3 +31,10 @@ button {
     border: 5%;
     border-color: rgb(179, 0, 255);
 }
+
+img {
+    margin-top: 2%;
+    border-radius: 20%;
+    border-color: blueviolet;
+    border-style: inset;
+}
